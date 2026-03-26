@@ -1,7 +1,10 @@
 # Prakticheskoe_zadanie_10
   
 ![](image.png)
-  
+
+Ссылка на коды на всякий случай
+https://github.com/AlexanderB1578/Prakticheskoe_zadanie_10/tree/main/%D0%9A%D0%BE%D0%B4%D1%8B
+
 ----------------------------------------------------------------------------------------------------------------------------
 ## Zadanie 1
 
